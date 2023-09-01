@@ -1,3 +1,3 @@
 <?php
-echo "welcome to my repository"
->?
+echo "hello,php!";
+?>
