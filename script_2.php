@@ -1,6 +1,6 @@
 <?php
-$a="my name is john";
-$b="i am a PHP developer"; 
-$c=$a." and ".$b;
-echo "$c\n";
+$name="reesha";
+$age=21;
+
+echo "My name is $name and i am $age years old";
 ?>

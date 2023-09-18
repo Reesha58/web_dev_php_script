@@ -1,5 +1,11 @@
 <?php
-$x=5;
-$y=$x;
-echo $y;
+$number=21;
+if($number%2==0)
+{
+	echo "it's even";
+}
+else
+{
+	echo "it's odd";
+}
 ?>

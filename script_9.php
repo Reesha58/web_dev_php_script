@@ -1,6 +1,6 @@
 <?php
-	$str = 'hello';  
-	echo "Your String is:".$str;  
-	echo "<br>";  
-	echo "'strlen()' function:".strlen($str);
+$d=05;
+$m=8;
+$y=2003;
+echo "$d"."/"."$m"."/"."$y";
 ?>

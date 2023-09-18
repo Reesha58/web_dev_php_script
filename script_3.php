@@ -1,4 +1,5 @@
 <?php
-$answer=42;
-echo "$answer is the answer to everthing";
+$num1=12;
+$num2=12;
+echo $num1+$num2;
 ?>

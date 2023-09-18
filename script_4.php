@@ -1,6 +1,5 @@
 <?php
-$firstname="Reesha";
-$lastname="Marsonia";
-
-echo $firstname." ".$lastname;
+$a="Hello";
+$b="php";
+echo "$a"." ". "$b";
 ?>
